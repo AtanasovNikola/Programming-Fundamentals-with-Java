@@ -1,4 +1,4 @@
-package AdvertisementMessage;
+package ObjectAndClassesExercise.Message;
 
 import java.util.Random;
 import java.util.Scanner;

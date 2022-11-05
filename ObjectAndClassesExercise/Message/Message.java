@@ -1,4 +1,4 @@
-package AdvertisementMessage;
+package ObjectAndClassesExercise.Message;
 
 public class Message {
     private String laudatoryPhrase;

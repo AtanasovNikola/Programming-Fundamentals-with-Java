@@ -1,4 +1,4 @@
-package OpinionPoll;
+package ObjectAndClassesExercise.Person;
 
 public class Person {
     private String name;

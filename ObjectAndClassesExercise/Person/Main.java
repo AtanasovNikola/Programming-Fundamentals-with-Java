@@ -1,4 +1,4 @@
-package OpinionPoll;
+package ObjectAndClassesExercise.Person;
 
 import java.util.Scanner;
 

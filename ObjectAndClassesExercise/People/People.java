@@ -1,4 +1,4 @@
-package OrderbyAge;
+package ObjectAndClassesExercise.People;
 
 public class People {
     private String name;

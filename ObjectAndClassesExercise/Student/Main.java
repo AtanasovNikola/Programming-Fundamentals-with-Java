@@ -1,4 +1,4 @@
-package Students;
+package ObjectAndClassesExercise.Student;
 
 import java.util.*;
 

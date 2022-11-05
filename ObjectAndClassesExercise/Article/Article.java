@@ -1,4 +1,4 @@
-package Articles;
+package ObjectAndClassesExercise.Article;
 
 public class Article {
     private String title;

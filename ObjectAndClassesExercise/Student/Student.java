@@ -1,4 +1,4 @@
-package Students;
+package ObjectAndClassesExercise.Student;
 
 public class Student {
     private  String firstName;

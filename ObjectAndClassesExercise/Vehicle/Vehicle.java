@@ -1,6 +1,4 @@
-package VehicleCatalogue;
-
-import java.util.Locale;
+package ObjectAndClassesExercise.Vehicle;
 
 public class Vehicle {
     private String type;

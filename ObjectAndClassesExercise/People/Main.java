@@ -1,4 +1,4 @@
-package OrderbyAge;
+package ObjectAndClassesExercise.People;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package groomingSalon;
+package ObjectAndClassesExercise.groomingSalon;
 
 import java.util.ArrayList;
 import java.util.List;
